@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vmskonakanchi" alt="vmskonakanchi" /></a> </p>
 
+<a href="https://app.daily.dev/vmskonakanchi"><img src="https://api.daily.dev/devcards/264a6fc67e444a559842730e567c9c2a.png?r=o64" width="400" alt="Vamsi Konakanchi's Dev Card"/></a>
+
 - 🔭 I’m currently working on **abtech**
 
 - 🌱 I’m currently learning **How to create a Kernel**
