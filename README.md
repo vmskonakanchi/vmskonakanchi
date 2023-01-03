@@ -7,19 +7,17 @@
 
 <a align="left" href="https://app.daily.dev/vmskonakanchi"><img src="https://api.daily.dev/devcards/264a6fc67e444a559842730e567c9c2a.png?r=o64" width="400" alt="Vamsi Konakanchi's Dev Card"/></a>
 
-- 🔭 I’m currently working on **abtech**
+- 🔭 I’m currently working on **MEAN , MERN stack , Spring boot , ASP.NET , Game Development **
 
-- 🌱 I’m currently learning **How to create a Kernel**
+- 🌱 I’m currently learning **How to write a OS in RUST**
 
-- 👯 I’m looking to collaborate on **Any Project i am interested**
-
-- 🤝 I’m looking for help with **abtech**
+- 👯 I’m looking to collaborate on **any project**
 
 - 👨‍💻 All of my projects are available at [https://vmskonakanchi.github.io](https://vmskonakanchi.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@vmskonakanchi](https://medium.com/@vmskonakanchi)
 
-- 💬 Ask me about **anything related to computer programming**
+- 💬 Ask me about **how to make a game with AI**
 
 - 📫 How to reach me **vmskonakanchi@gmail.com**
 
