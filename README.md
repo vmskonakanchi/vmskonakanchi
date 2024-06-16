@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **how to make a game with AI**
 
-- 📫 How to reach me **vmskonakanchi@gmail.com**
+- 📫 How to reach me **contact@vamsi-k.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
