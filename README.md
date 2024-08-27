@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [https://vamsi-k.com](https://vamsi-k.com/portfolio)
+- 👨‍💻 All of my projects are available at [https://vamsi-k.com/portfolio](https://vamsi-k.com)
 
 - 📝 I regularly write articles on [https://medium.com/@vmskonakanchi](https://medium.com/@vmskonakanchi)
 
