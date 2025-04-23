@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Full stack applications using different tech stacks and making games**
 
-- 🌱 I’m currently learning **How to write a OS in RUST**
+- 🌱 I’m currently learning **How to write a OS**
 
-- 👯 I’m looking to collaborate on **any project**
+- 👯 I’m looking to collaborate on **any challenging and rewarding project , not simply crud apps with full stack development**
 
 - 👨‍💻 All of my projects are available at [https://vamsi-k.com/portfolio](https://vamsi-k.com)
 
